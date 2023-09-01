@@ -1,0 +1,15 @@
+Rust ajuda a escrever um código mais confiável de maneira mais rápida.
+
+Escrita de alto nível com controle de baixo nível, assim equilibrando uma grande capacidade técnica com uma ótima experiência de desenvolvimento.
+
+Rust permite controlar detalhes de programação de baixo nível(como por exemplo o uso de memória) sem as dificuldades que geralmente se espera.
+
+
+No Rust, o compilador protege o código(e subsequentemente o projeto) de "escolhas" duvidosas e que podem gerar erros no futuro. Esse funcionamento do compilador permite um desenvolvimento rápido e seguro.
+
+Rust támbem trás ferramentes de desenvolvimento conteporâneas.
+    - Cargo, um administrador de dependências, o que torna as tarefas de adicionar, compilar e administrar mais fáceis e consistenes
+    - Rustfmt, garante um estilo de código consistente
+    - e mais
+    
+      

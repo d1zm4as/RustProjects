@@ -1,0 +1,34 @@
+Ownership é a característica central do Rust, e tem implicações profundas em todo resto da linguagem.
+
+Todos os programas tem que decidir de que forma vão usar a memória do computador durante a execução. Há algumas formas de resolver esse problema, algumas linguagens tem um garbage collector, ferramente essa que busca segmentos de memória que já não são mais utilizados enquanto o programa executa(python,java,js, etc), já em outras o programador deve alocar e liberar memória de forma explícita, tipo C. já o Rust trabalha diferente. A memória é gerenciada através de um sistema de posse, que tem seu conjunto de regras verificadas em tempo de compilação
+
+obs: nenhuma característica relacionada a Ownership implica qualquer custo na hora da compilação.
+
+
+A Pilha e a Heap
+
+
+ambas são partes da memória que estão disponiveis ao seu codigo pra uso em tempo de execução mas elas são estruturadas de maneira diferente
+
+A pilha é rápida por conta da forma como ela acessa os dados: ela nunca tem que procurar um lugar para colocar novos dados, ou um lugar de onde obter dados, este lugar é sempre o topo da pilha. Outra propriedade que faz a pilha ser rápida é que todos os dados contidos nela devem ocupar um tamanho fixo e conhecido.
+
+Regras de Ownership
+
+
+1- Cada valor em Rust possui uma variável que é dita seu Owner
+
+2 - Pode apenas haver um owner por vez.
+
+3 - Quando o owner sair fora de escopo, o valor será destruído
+
+
+
+
+
+
+
+
+
+
+
+
