@@ -1,0 +1,13 @@
+/home/me/Documents/RustProjects/weather_rust/weather/target/release/deps/url-24fc1018dde9b268.rmeta: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/host.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/origin.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/parser.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/path_segments.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/slicing.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/quirks.rs
+
+/home/me/Documents/RustProjects/weather_rust/weather/target/release/deps/liburl-24fc1018dde9b268.rlib: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/host.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/origin.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/parser.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/path_segments.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/slicing.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/quirks.rs
+
+/home/me/Documents/RustProjects/weather_rust/weather/target/release/deps/url-24fc1018dde9b268.d: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/lib.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/host.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/origin.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/parser.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/path_segments.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/slicing.rs /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/quirks.rs
+
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/lib.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/host.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/origin.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/parser.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/path_segments.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/slicing.rs:
+/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.0/src/quirks.rs:
